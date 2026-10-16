@@ -1,6 +1,6 @@
 # Eugz "Trion" Bene
 
-### Developer · Computer Engineer · Music Producer
+### Developer · Computer Engineering Student · Amatuer Music Producer
 
 From Alamada, Cotabato — blending code, creativity, and engineering. Building software, exploring hardware, and producing music.
 
