@@ -6,43 +6,19 @@ From Alamada, Cotabato — blending code, creativity, and engineering. Building 
 
 ---
 
-## 👨‍💻 About Me
+# 🏆 CERTIFICATIONS
 
-I'm Eugene Bene, known as **Eugz / Trion** — a passionate developer and creative from Alamada, Cotabato, Philippines. I'm currently pursuing a **BS in Computer Engineering** at the **University of Southern Mindanao** (2025–present). I was also a former Computer Science student at Notre Dame of Midsayap College (2024).
+![CSS NCII](https://img.shields.io/badge/CSS_NCII-Certified-blue?style=for-the-badge)
 
-My tech journey started early: in Junior High School, I specialized in ICT – Computer Systems Servicing (CSS), and in Senior High School, I took the TVL-ICT strand specializing in Computer Systems Servicing, where I earned my **CSS NCII certification**. This foundation gave me hands-on experience in hardware, networking, and troubleshooting.
+### 📜 Computer Systems Servicing NCII (CSS NCII)
+**TESDA Certified** · Senior High School
 
-I focus on **software development and computer engineering**, while also expressing creativity through **music production and arrangement**. I have basic knowledge of AutoCAD for design exploration — making me a true hybrid creator.
-
-- 📍 Alamada, Cotabato, Philippines
-- 🎓 BSCpE @ University of Southern Mindanao (2025–present)
-- 📜 CSS NCII Holder
-- 💻 Focus: Software Development & Computer Engineering
-- 🎵 Side Passion: Music Producer and Arranger Since 2022
-
----
-
-# 💻 COMPUTER & CODING PROJECTS
-
-## 🚀 Featured Project
-
-### USM ULS Student Portal
-
-A modern student portal for the University of Southern Mindanao – University Library System. Built to streamline access to academic resources and student services. Features include real-time library updates, account management, and resource booking.
-
-**Tech Stack:**
-`TypeScript` `Node.js` `PostgreSQL` `Tailwind CSS` `PWA`
-
----
-
-## 🧠 What I Build & Explore
-
-- **Web Applications** – Full-stack apps using modern JavaScript/TypeScript frameworks
-- **Backend Systems** – APIs, databases, and server-side logic with Node.js and SQL
-- **Embedded Systems** – Hardware-software integration (currently studying)
-- **Automation & Scripts** – Python and Java utilities
-- **System Servicing** – Hardware troubleshooting, networking, and maintenance (CSS NCII certified)
-- **Database Design** – PostgreSQL, SQLite, and SQL-based data modeling
+Earned my **CSS NCII certification** during Senior High School under the TVL-ICT strand. This certification validates my hands-on skills in:
+- Computer Hardware Assembly & Disassembly
+- Network Configuration & Troubleshooting
+- System Maintenance & Repair
+- Software Installation & Configuration
+- Basic Networking Setup
 
 ---
 
@@ -83,13 +59,49 @@ A modern student portal for the University of Southern Mindanao – University L
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## Certifications
+---
 
-![CSS NCII](https://img.shields.io/badge/CSS_NCII-Certified-blue?style=for-the-badge)
+# 💻 COMPUTER & CODING PROJECTS
+
+## 🚀 Featured Project
+
+### USM ULS Student Portal
+
+A modern student portal for the University of Southern Mindanao – University Library System. Built to streamline access to academic resources and student services. Features include real-time library updates, account management, and resource booking.
+
+**Tech Stack:**
+`TypeScript` `Node.js` `PostgreSQL` `Tailwind CSS` `PWA`
 
 ---
 
-## 🎓 Education & Certifications
+## 🧠 What I Build & Explore
+
+- **Web Applications** – Full-stack apps using modern JavaScript/TypeScript frameworks
+- **Backend Systems** – APIs, databases, and server-side logic with Node.js and SQL
+- **Embedded Systems** – Hardware-software integration (currently studying)
+- **Automation & Scripts** – Python and Java utilities
+- **System Servicing** – Hardware troubleshooting, networking, and maintenance (CSS NCII certified)
+- **Database Design** – PostgreSQL, SQLite, and SQL-based data modeling
+
+---
+
+## 👨‍💻 About Me
+
+I'm Eugene Bene, known as **Eugz / Trion** — a passionate developer and creative from Alamada, Cotabato, Philippines. I'm currently pursuing a **BS in Computer Engineering** at the **University of Southern Mindanao** (2025–present). I was also a former Computer Science student at Notre Dame of Midsayap College (2024).
+
+My tech journey started early: in Junior High School, I specialized in ICT – Computer Systems Servicing (CSS), and in Senior High School, I took the TVL-ICT strand specializing in Computer Systems Servicing, where I earned my **CSS NCII certification**. This foundation gave me hands-on experience in hardware, networking, and troubleshooting.
+
+I focus on **software development and computer engineering**, while also expressing creativity through **music production and arrangement**. I have basic knowledge of AutoCAD for design exploration — making me a true hybrid creator.
+
+- 📍 Alamada, Cotabato, Philippines
+- 🎓 BSCpE @ University of Southern Mindanao (2025–present)
+- 📜 CSS NCII Holder
+- 💻 Focus: Software Development & Computer Engineering
+- 🎵 Side Passion: Music Producer and Arranger Since 2022
+
+---
+
+## 🎓 Education
 
 | 📘 **BS Computer Engineering** | 2025 – present | University of Southern Mindanao (USM), Kabacan |
 |:---|:---|:---|
